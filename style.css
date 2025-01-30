@@ -1,0 +1,106 @@
+body{
+   
+    background-color: black;
+}
+h1{
+    color: rgb(62, 43, 187);
+    transition: 0.2s;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 200px;
+    font-size: 10ch;
+}
+h2{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+pre{
+    border: 1px solid white;
+    border-bottom: 1px solid white;
+    border-radius: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 10px;
+    color: white;
+    font-weight: 1000px;
+    font-size:x-large;;
+}
+p{
+    font-size: 3ch;
+    color: rgb(41, 221, 149);
+    display: flex;
+    font-weight: bold;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+nav{
+
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 2px;
+    font-size: larger;
+    margin-top: 0px;
+    margin-left: 0%;
+}
+
+header{
+   
+    background-color: transparent;
+    display:flex ;
+    justify-content: space-between ;
+    align-items: center;
+
+}
+.logo a{
+    margin-left: 20px;
+    font-size: 50px;
+    color: crimson;
+    text-decoration: none;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+ img{
+    margin: -30px;
+    border: 10px solid white;
+height: 500px;
+width: 500px;
+border-radius: 2000px;
+margin-left: 70px;
+
+
+ }
+ .home{
+margin-right: px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-around;
+ }
+.he{
+ color: aliceblue;
+ border: 0;
+ padding: 0;
+ text-align:left;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+font-size: 9ch;
+}
+
+ footer{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 10px;
+    border: 1px solid white;
+    color: rgb(29, 184, 17);
+    font-size: 20px;
+    text-align: center;
+    justify-content: space-between;
+ }
+ a{
+    color: rgb(41, 221, 149);
+    text-decoration: none;
+ }
